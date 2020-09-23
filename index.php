@@ -1,2 +1,2 @@
-<?php echo "hello!" ?>
-<?php echo "see you"; ?>
+<?php echo "Hello!" ?>
+<?php echo "See You"; ?>
